@@ -45,6 +45,7 @@ python -m venv mathik
 ```
 
 4. **Activation de l'environnement virtuelle.**
+
 *Windows*
 ```
 .\mathik\Scripts\Activate
