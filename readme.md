@@ -5,7 +5,7 @@
 ---
 ## Contexte
 
-Mathik est un robot discord qui traduit les notions mathématiques du BTS SIO en algorithme python. Ce projet est développé par Louis MEDO, un étudiant en BTS SIO autodicate et passionné par l'informatique. Avec ce projet son objectif est de s'assurer d'une bonne compréhensions des concepts mathématiques ainsi de la capacité à la utilisé concretémement.
+Mathik est un robot Discord qui traduit les notions mathématiques du BTS SIO en algorithme Python. Ce projet est développé par Louis MEDO, un étudiant en BTS SIO autodidacte et passionné par l'informatique. Avec ce projet, son objectif est de s'assurer d'une bonne compréhension des concepts mathématiques ainsi que de la capacité à les utiliser concrètement.
 
 ---
 ## Organisation du dépôt
