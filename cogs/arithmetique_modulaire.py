@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-class Arithmetique(commands.Cog):
+class Arithmetique_modulaire(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
     
@@ -15,4 +15,4 @@ class Arithmetique(commands.Cog):
         return await ctx.send(f"✅ Le nombre `{N}` est premier.")
 
 async def setup(bot):
-    await bot.add_cog(Arithmetique(bot))
+    await bot.add_cog(Arithmetique_modulaire(bot))
